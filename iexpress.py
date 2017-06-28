@@ -1,3 +1,4 @@
+#Uses IExpress to bind files in local folder called 'FILES' that gets put in a self-extracting windows executable.
 import os
 from subprocess import check_output
 import re
